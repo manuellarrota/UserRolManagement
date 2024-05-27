@@ -14,8 +14,8 @@
     - Base de datos para desarrollo: H2
 3. instalacion y configuracion:
     3.1 dev: 
-        - clonar o descargar un zip del proyecto: https://github.com/manuellarrota/UserRolManagement.git
-        - ejecutar en la raiz del proyecto: `mvn clean package install`, esto desde el ide en la seccion de maven.
+    - clonar o descargar un zip del proyecto: https://github.com/manuellarrota/UserRolManagement.git
+    - ejecutar en la raiz del proyecto: `mvn clean package install`, esto desde el ide en la seccion de maven.
     3.2 test: 
     3.3 prod: 
 4. Scripts y utilidades:
